@@ -56088,3 +56088,33 @@ img {
         .fusion-button.button-7 {
             border-radius: 2px;
         }
+        .fusion-blog-shortcode-1
+          .fusion-blog-layout-grid
+          .fusion-post-grid {
+          padding: 17.5px;
+        }
+        .fusion-blog-shortcode-1 .fusion-posts-container {
+          margin-left: -17.5px !important;
+          margin-right: -17.5px !important;
+        }
+        .fusion-form-3352 .fusion-form-tooltip .fusion-form-tooltip-content {
+            color: #ffffff !important;
+            background-color: #333333 !important;
+            border-color: #333333 !important;
+        }
+        .fusion-button.button-9 {
+            border-radius: 2px;
+        }
+        .fusion-button.button-8 {
+            border-radius: 2px;
+        }
+        @media (max-width: 800px) {
+          #text-17 {
+            text-align: initial !important;
+          }
+        }
+      @media (max-width: 800px) {
+        #text-18 {
+          text-align: initial !important;
+        }
+      }
